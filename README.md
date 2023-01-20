@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/AGaafar7?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-[![AGaafar7's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGaafar7)](https://github.com/AGaafar7/github-readme-stats)
+[![AGaafar7's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGaafar7&show_icons=true&theme=dracula)](https://github.com/AGaafar7/github-readme-stats)
 
 <a href="http://www.github.com/AGaafar7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AGaafar7&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
