@@ -45,10 +45,6 @@ src="https://img.shields.io/github/followers/AGaafar7?logo=github&style=for-the-
 
 <a href="http://www.github.com/AGaafar7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AGaafar7&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-<b>Top Repositories</b>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AGaafar7&repo=Focus)](https://github.com/AGaafar7/Focus)
 <br /><br /><br /><br /><br /><br /><br />
 
 
