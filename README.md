@@ -48,7 +48,7 @@ src="https://img.shields.io/github/followers/AGaafar7?logo=github&style=for-the-
 
 <b>Top Repositories</b>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AGaafar7&repo=github-readme-stats)](https://github.com/AGaafar7/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AGaafar7&repo=Focus)](https://github.com/AGaafar7/Focus)
 <br /><br /><br /><br /><br /><br /><br />
 
 
