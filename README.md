@@ -48,7 +48,8 @@ src="https://img.shields.io/github/followers/AGaafar7?logo=github&style=for-the-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/AGaafar7/focus" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AGaafar7&repo=focus&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AGaafar7&repo=github-readme-stats)](https://github.com/AGaafar7/github-readme-stats)
+<br /><br /><br /><br /><br /><br /><br />
 
 
 <!---
